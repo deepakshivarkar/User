@@ -25,7 +25,7 @@
  <sonar.projectKey>deepakshivarkar_User</sonar.projectKey>
   <sonar.organization>deepak</sonar.organization>
   <sonar.host.url>https://sonarcloud.io</sonar.host.url>
-  <sonar.login>c70a8597ba844ca3b9d154ad4398c51208f8e92d</sonar.login>
+  <sonar.login>1ff3131a5dacd7bcd5fd31779f25967158db0415</sonar.login>
 
 	</properties>
 <dependencyManagement>
